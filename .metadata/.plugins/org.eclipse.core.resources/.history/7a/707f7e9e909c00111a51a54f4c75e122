@@ -1,0 +1,7 @@
+public class Gerente extends FuncionarioCLT{
+
+	public Gerente() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

@@ -1,0 +1,13 @@
+public class Gerente extends FuncionarioCLT{
+	public int tamanhoEquipe;
+	public double percentualBonus;
+	
+	public Gerente(String nome, int matricula, double salarioBase, String dataAdmissao, 
+			double valeTransporte, double valeAlimentacao) {
+	super(nome, matricula, salarioBase, dataAdmissao, valeTransporte, valeAlimentacao);
+	this.tamanhoEquipe = tamanhoEquipe;
+	this.percentualBonus = percentualBonus
+	
+	}
+
+}

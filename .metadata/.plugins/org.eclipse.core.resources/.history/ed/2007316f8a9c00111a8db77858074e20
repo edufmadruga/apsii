@@ -1,0 +1,10 @@
+
+public class Principal {
+
+	public static void main(String[] args) {
+		
+		Moto m1 = new Moto("Moto", 1989, 700);
+		System.out.println(c1.imprimirDetalhes());
+	}
+		
+}
