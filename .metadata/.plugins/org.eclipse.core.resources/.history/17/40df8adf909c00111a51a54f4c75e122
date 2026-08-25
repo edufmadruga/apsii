@@ -1,8 +1,0 @@
-public class Gerente extends FuncionarioCLT{
-	public int tamanhoEquipe;
-	public double percentualBonus;
-	public Gerente() {
-		// TODO Auto-generated constructor stub
-	}
-
-}
