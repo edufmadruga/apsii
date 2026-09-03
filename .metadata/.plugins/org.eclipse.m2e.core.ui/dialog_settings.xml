@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\edufm\OneDrive\Documentos\apsii\Exemplo3"/>
 			<item value="C:\Users\edufm\OneDrive\Documentos\apsii\ListaExercicios2"/>
 			<item value="C:\Users\edufm\OneDrive\Documentos\apsii"/>
 		</list>
@@ -46,13 +47,17 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="br.unipe.edu.br"/>
+			<item value="Exercicio4"/>
 			<item value="br.edu.unipe.apsii"/>
-			<item value="com.example"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
-			<item value="ListaExercicios2"/>
+			<item value="Exercicio4"/>
+			<item value="br.unipe.edu.br"/>
+			<item value="Exemplo003"/>
+			<item value="Exemplo002"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
