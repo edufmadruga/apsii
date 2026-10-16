@@ -247,3 +247,53 @@
 2026-09-03 13:54:39.348: [INFO] BookmarksLoadDropped droppedNodes=0
 2026-09-03 13:54:39.348: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
 2026-09-03 13:59:49.185: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-10 10:43:32.316: [INFO] CurrentProfilePath: C:\Users\edufm\OneDrive\Documentos\apsii\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-10 10:43:32.316: [INFO] Profiles total count: 1
+2026-09-10 10:43:32.316: [INFO] Profile: name=Perfil 1 path=C:\Users\edufm\OneDrive\Documentos\apsii\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-27T12:17:01.982Z
+2026-09-10 10:43:32.316: [INFO] LastUsedProfileDir: C:\Users\edufm\OneDrive\Documentos\apsii\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-10 10:43:32.316: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\edufm\OneDrive\Documentos\apsii\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-27T12:17:01.982Z
+2026-09-10 10:43:32.316: [INFO] OnDoneLoading sync enabled: 0
+2026-09-10 10:43:32.316: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-10 10:43:32.316: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-10 10:43:32.316: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-10 10:43:58.166: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-24 01:42:38.772: [INFO] CurrentProfilePath: C:\Users\edufm\OneDrive\Documentos\apsii\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-24 01:42:38.772: [INFO] Profiles total count: 1
+2026-09-24 01:42:38.772: [INFO] Profile: name=Perfil 1 path=C:\Users\edufm\OneDrive\Documentos\apsii\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-10T10:43:37.973Z
+2026-09-24 01:42:38.772: [INFO] LastUsedProfileDir: C:\Users\edufm\OneDrive\Documentos\apsii\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-24 01:42:38.772: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\edufm\OneDrive\Documentos\apsii\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-10T10:43:37.973Z
+2026-09-24 01:42:38.772: [INFO] OnDoneLoading sync enabled: 0
+2026-09-24 01:42:38.772: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-24 01:42:38.772: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-24 01:42:38.772: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-24 01:45:49.072: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-16 00:23:17.978: [INFO] CurrentProfilePath: C:\Users\edufm\OneDrive\Documentos\apsii\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-16 00:23:17.978: [INFO] Profiles total count: 1
+2026-10-16 00:23:17.980: [INFO] Profile: name=Perfil 1 path=C:\Users\edufm\OneDrive\Documentos\apsii\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-10T10:43:37.973Z
+2026-10-16 00:23:17.980: [INFO] LastUsedProfileDir: C:\Users\edufm\OneDrive\Documentos\apsii\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-16 00:23:17.980: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\edufm\OneDrive\Documentos\apsii\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-10T10:43:37.973Z
+2026-10-16 00:23:17.980: [INFO] OnDoneLoading sync enabled: 0
+2026-10-16 00:23:17.980: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-16 00:23:17.980: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-16 00:23:17.980: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-16 00:23:21.399: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-16 00:31:13.229: [INFO] CurrentProfilePath: C:\Users\edufm\OneDrive\Documentos\apsii\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-16 00:31:13.229: [INFO] Profiles total count: 1
+2026-10-16 00:31:13.229: [INFO] Profile: name=Perfil 1 path=C:\Users\edufm\OneDrive\Documentos\apsii\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-16T00:23:19.060Z
+2026-10-16 00:31:13.229: [INFO] LastUsedProfileDir: C:\Users\edufm\OneDrive\Documentos\apsii\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-16 00:31:13.229: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\edufm\OneDrive\Documentos\apsii\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-16T00:23:19.060Z
+2026-10-16 00:31:13.229: [INFO] OnDoneLoading sync enabled: 0
+2026-10-16 00:31:13.229: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-16 00:31:13.229: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-16 00:31:13.229: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-16 00:33:09.616: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-16 00:33:27.483: [INFO] CurrentProfilePath: C:\Users\edufm\OneDrive\Documentos\apsii\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-16 00:33:27.483: [INFO] Profiles total count: 1
+2026-10-16 00:33:27.483: [INFO] Profile: name=Perfil 1 path=C:\Users\edufm\OneDrive\Documentos\apsii\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-16T00:23:19.060Z
+2026-10-16 00:33:27.483: [INFO] LastUsedProfileDir: C:\Users\edufm\OneDrive\Documentos\apsii\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-16 00:33:27.483: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\edufm\OneDrive\Documentos\apsii\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-16T00:23:19.060Z
+2026-10-16 00:33:27.483: [INFO] OnDoneLoading sync enabled: 0
+2026-10-16 00:33:27.483: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-16 00:33:27.483: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-16 00:33:27.483: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-16 00:35:49.693: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
